@@ -1,0 +1,173 @@
+h1 
+	{text-align: center;
+	text-shadow:0 0 2px #000,0 0 30px #FFD100,0px 0px 5px #FFD100, 0 0 150px #FFD100;color:#FFD100;
+	font-size: 50px;}
+
+.fiche1 {float: left;}
+
+  
+.button
+	{
+		text-align: center;
+	}
+
+.buttonfiche 
+ 	{
+    background-color: #000;
+    Color:white;
+    font-weight: bold;
+    padding: 10px 40px;
+    border-radius: 3px;
+    cursor: pointer; 
+    box-shadow: 0 8px 16px 0 grey;
+    text-decoration: none;
+  }
+
+  .buttonfiche:hover {
+    background-color: #F9D31A;
+    color: black;
+  }
+
+.urgence
+	{background-color: #F9D31A;
+	margin: 5px 10px;
+	text-align: center;
+	font-size: 30px;}
+
+.proteger
+	{font-size: 20px;
+	 background-color: #5ED30D;
+	 padding: 10px;
+	 float: left;}
+
+.Proteger 
+	{border: 1px solid #000;
+	margin: 0px 8px;
+ 	 padding: 5px;float: left;}
+
+
+.alerter
+	{font-size: 20px;
+	 background-color: #5ED30D;
+	 padding: 10px;
+	 float: left;}
+
+.Alerter {border: 1px solid #000;
+	margin: 0px 8px;
+ 	 padding: 5px;float: left;}
+
+
+.secourir
+	{font-size: 20px;
+	 background-color: #5ED30D;
+	 padding: 10px;
+	 float: left;}
+
+.Secourir {border: 1px solid #000;
+	margin: 0px 8px;
+ 	 padding: 5px;float: left;}
+
+.dangereux
+	{background-color: #F9D31A;
+	margin: 5px 10px;
+	text-align: center;
+	font-size: 30px;}
+
+.Dangereux
+	{font-size: 20px;
+	 float: left;}
+
+
+.neige
+	{font-size: 20px;
+	 background-color: #5ED30D;
+	 padding: 10px;
+	 float: left;
+	 margin-left: 150px;}
+
+.laneige {border: 1px solid #000;
+	margin: 0px 8px;
+ 	 padding: 5px;float: left;}
+
+
+.nuit
+	{font-size: 20px;
+	 background-color: #5ED30D;
+	 padding: 10px;
+	 float: left;
+	 margin-left: 50px;}
+
+.lanuit {border: 1px solid #000;
+	margin: 0px 8px;
+ 	 padding: 5px;
+ 	 float: left;}
+
+h6 
+	{font-size: 20px;
+	 text-align: center;}
+
+.conduite
+	{background-color: #F9D31A;
+	margin: 0px 10px;
+	text-align: center;
+	font-size: 30px;}
+
+
+.accident
+	{font-size: 20px;
+	 background-color: #5ED30D;
+	 padding: 10px;
+	 float: left;
+	 margin-left: 250px;}
+
+.Accident
+	{border: 1px solid #000;
+	margin: 0px 8px;
+ 	 padding: 5px;
+ 	 float: left;}
+
+.apres
+	{font-size: 20px;
+	 background-color: #5ED30D;
+	 padding: 10px;
+	 float: right;}
+
+.lapres 
+	{border: 1px solid #000;
+	margin: 0px 8px;
+ 	 padding: 5px;
+ 	 float: left;
+ 	 margin-left: 340px;}
+
+.recto
+	{float: left;
+	 margin-left: 300px;}
+
+.Recto
+	{font-size: 20px;
+	 text-decoration: underline;
+	 margin-left: 340px;}
+
+.RECTO
+	{margin-left: 810px;
+	 font-size: 20px;}
+
+
+.verso
+	{float: left;
+	 margin-left: 400px;}
+
+.Verso
+	{font-size: 20px;
+	 text-decoration: underline;
+	 margin-left: 470px;}
+
+.VERSO
+	{margin-left: 290px;
+	 font-size: 20px;}
+
+.VERSO2
+	{margin-left: 1380px;
+	 font-size: 20px;}
+
+

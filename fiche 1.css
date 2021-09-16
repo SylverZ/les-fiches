@@ -1,0 +1,135 @@
+h1 
+	{text-align: center;
+	text-shadow:0 0 2px #000,0 0 30px #FFD100,0px 0px 5px #FFD100, 0 0 150px #FFD100;color:#FFD100;
+	font-size: 50px;}
+
+.fiche1 {float: left;}
+
+  
+.button
+	{
+		text-align: center;
+	}
+
+.buttonfiche 
+ 	{
+    background-color: #000;
+    Color:white;
+    font-weight: bold;
+    padding: 10px 40px;
+    border-radius: 3px;
+    cursor: pointer; 
+    box-shadow: 0 8px 16px 0 grey;
+    text-decoration: none;
+  }
+
+  .buttonfiche:hover {
+    background-color: #F9D31A;
+    color: black;
+  }
+
+.conduite 
+	{background-color: #F9D31A;
+	margin: 5px 10px;
+	text-align: center;
+	font-size: 30px;}
+
+.pluie
+	{font-size: 20px;
+	 background-color: #5ED30D;
+	 padding: 10px;
+	 float: left;}
+
+.laflotte 
+	{border: 1px solid #000;
+	margin: 0px 8px;
+ 	 padding: 5px;float: left;}
+
+
+.brouillard
+	{font-size: 20px;
+	 background-color: #5ED30D;
+	 padding: 10px;
+	 float: left;}
+
+.lebrouillard {border: 1px solid #000;
+	margin: 0px 8px;
+ 	 padding: 5px;float: left;}
+
+
+.vent
+	{font-size: 20px;
+	 background-color: #5ED30D;
+	 padding: 10px;
+	 float: left;}
+
+.levent {border: 1px solid #000;
+	margin: 0px 8px;
+ 	 padding: 5px;float: left;}
+
+
+.neige
+	{font-size: 20px;
+	 background-color: #5ED30D;
+	 padding: 10px;
+	 float: left;
+	 margin-left: 150px;}
+
+.laneige {border: 1px solid #000;
+	margin: 0px 8px;
+ 	 padding: 5px;float: left;}
+
+
+.nuit
+	{font-size: 20px;
+	 background-color: #5ED30D;
+	 padding: 10px;
+	 float: left;
+	 margin-left: 50px;}
+
+.lanuit {border: 1px solid #000;
+	margin: 0px 8px;
+ 	 padding: 5px;
+ 	 float: left;}
+
+h6 
+	{font-size: 20px;
+	 text-align: center;}
+
+.precautions
+	{background-color: #F9D31A;
+	margin: 0px 10px;
+	text-align: center;
+	font-size: 30px;}
+
+
+.avant
+	{font-size: 20px;
+	 background-color: #5ED30D;
+	 padding: 10px;
+	 float: left;}
+
+.lavant 
+	{border: 1px solid #000;
+	margin: 0px 8px;
+ 	 padding: 5px;
+ 	 float: left;}
+
+.apres
+	{font-size: 20px;
+	 background-color: #5ED30D;
+	 padding: 10px;
+	 float: right;}
+
+.lapres 
+	{border: 1px solid #000;
+	margin: 0px 8px;
+ 	 padding: 5px;
+ 	 float: left;
+ 	 margin-left: 340px;}
+
+.info
+	{font-size: 20px;
+	 text-align: center;
+	 }
+
